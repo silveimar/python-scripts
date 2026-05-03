@@ -1,0 +1,10 @@
+{
+    "org": "kompliant",
+    "output": "repo_inventory-kompliant.csv",
+    "clone_mode": "full",
+    "clone_root": "./repos-kompliant",
+    "include_archived": false,
+    "concurrency": 3,
+    "stale_days": 120,
+    "large_files_threshold": 10000
+}

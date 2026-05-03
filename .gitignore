@@ -130,3 +130,11 @@ dmypy.json
 
 .DS_Store
 .vscode
+.venv/
+
+clean-prompts-md/prompts-input/*.md
+clean-prompts-md/prompts-output/*.md
+youtube/out*/
+youtube/ids*.txt
+youtube/videos*.txt
+youtube/Afirmaciones-positivas*.txt
